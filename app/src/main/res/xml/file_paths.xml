@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Android 9 ve altında kaydedilen dosyaları bildirimden açmak için -->
+    <external-path name="public_downloads" path="Download/" />
+</paths>

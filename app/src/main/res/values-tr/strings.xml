@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pro Media Downloader</string>
+    <string name="tagline_ready">Medya indirmenin en hızlı yolu</string>
+    <string name="tagline_preparing">Uygulama hazırlanıyor…</string>
+
+    <string name="tab_download">İndir</string>
+    <string name="tab_history">Geçmiş</string>
+
+    <string name="clipboard_title">Kopyalanan bağlantı algılandı</string>
+    <string name="clipboard_dismiss">Kapat</string>
+
+    <string name="link_title">Medya bağlantısı</string>
+    <string name="link_subtitle">Tüm sosyal medya ve popüler video platformları desteklenir</string>
+    <string name="link_placeholder">Bağlantıyı buraya yapıştırın</string>
+    <string name="btn_clear">Temizle</string>
+    <string name="btn_paste">Yapıştır</string>
+    <string name="btn_fetch">Bilgileri getir</string>
+    <string name="btn_fetching">Alınıyor…</string>
+    <string name="clear_desc">Bağlantıyı temizle</string>
+
+    <string name="preview_title">Önizleme</string>
+    <string name="preview_empty">Henüz medya seçilmedi</string>
+    <string name="preview_loading">Bilgiler alınıyor…</string>
+    <string name="preview_duration">Süre %1$s</string>
+    <string name="preview_unknown_title">Bilinmeyen başlık</string>
+
+    <string name="options_title">İndirme ayarları</string>
+    <string name="options_subtitle">Biçim, kalite ve zaman aralığı</string>
+    <string name="label_format">BİÇİM</string>
+    <string name="label_quality">KALİTE</string>
+    <string name="label_codec">VİDEO KODEĞİ</string>
+    <string name="label_time_range">ZAMAN ARALIĞI (İSTEĞE BAĞLI)</string>
+    <string name="format_video">Video · MP4</string>
+    <string name="format_audio">Ses · MP3</string>
+    <string name="quality_best">En iyi kalite</string>
+    <string name="codec_h264">H.264 · Önerilen</string>
+    <string name="codec_hevc">HEVC · H.265</string>
+    <string name="codec_vp9">VP9</string>
+    <string name="codec_av1">AV1</string>
+    <string name="hint_h264">H.264 her telefon, TV ve bilgisayarda sorunsuz oynar.</string>
+    <string name="hint_h264_4k">4K için çoğu sitede VP9 veya AV1 gerekir. H.264 ile en fazla 1080p indirilir.</string>
+    <string name="hint_hevc">HEVC sitelerde nadirdir. Yoksa en yakın uyumlu biçim indirilir.</string>
+    <string name="hint_vp9">VP9 daha küçük dosya verir, ama bazı eski cihazlar oynatamayabilir.</string>
+    <string name="hint_av1">AV1 en küçük dosyayı verir, ama eski telefonlarda takılabilir veya oynamayabilir.</string>
+    <string name="time_start">Başlangıç</string>
+    <string name="time_end">Bitiş</string>
+    <string name="switch_playlist">Tüm oynatma listesini indir</string>
+    <string name="switch_subtitles">Altyazıları indir</string>
+    <string name="switch_smart">Akıllı klasörleme (Video / Ses)</string>
+
+    <string name="folder_title">Kayıt konumu</string>
+    <string name="folder_subtitle">Dosyalar nereye kaydedilsin?</string>
+    <string name="folder_custom">Seçtiğiniz klasör</string>
+    <string name="folder_default">Varsayılan konum</string>
+    <string name="folder_choose">Klasör seç</string>
+    <string name="folder_change">Klasörü değiştir</string>
+    <string name="folder_reset">Varsayılan</string>
+    <string name="folder_selected">Seçili klasör</string>
+    <string name="default_folder_name">İndirilenler/ProMediaDownloader</string>
+
+    <string name="log_title">Etkinlik günlüğü</string>
+    <string name="log_show">Göster ▾</string>
+    <string name="log_hide">Gizle ▴</string>
+    <string name="log_empty">Henüz kayıt yok.</string>
+    <string name="log_clear_btn">Günlüğü temizle</string>
+
+    <string name="history_title">İndirme geçmişi</string>
+    <string name="history_subtitle">Oynatmak için bir öğeye dokunun.</string>
+    <string name="history_empty">Henüz indirme yok.</string>
+    <string name="history_clear">Geçmişi temizle</string>
+    <string name="type_video">Video</string>
+    <string name="type_audio">Ses</string>
+    <string name="history_missing">Dosya açılamadı. Taşınmış veya silinmiş olabilir.</string>
+    <string name="history_no_player">Bu dosyayı açacak bir uygulama bulunamadı.</string>
+
+    <string name="language_title">Dil</string>
+    <string name="language_subtitle">Uygulama dilini seçin</string>
+    <string name="language_en">English</string>
+    <string name="language_tr">Türkçe</string>
+
+    <string name="about_title">Hakkında</string>
+    <string name="about_version">Sürüm %1$s</string>
+    <string name="about_developer">Geliştirici:</string>
+    <string name="about_copyright">© 2026 Pro Media Downloader</string>
+    <string name="about_disclaimer">İndirdiğiniz içeriklerin telif hakkı ve yasal sorumluluğu size aittir. Yalnızca kullanma hakkına sahip olduğunuz içerikleri indirin.</string>
+
+    <string name="status_ready">Hazır</string>
+    <string name="status_preparing">Motor hazırlanıyor…</string>
+    <string name="status_engine_error">Motor hatası</string>
+    <string name="status_starting">Başlatılıyor</string>
+    <string name="status_downloading">İndiriliyor</string>
+    <string name="status_saving">Kaydediliyor</string>
+    <string name="status_processing">İşleniyor</string>
+    <string name="status_done">Tamamlandı</string>
+    <string name="status_cancelled">İptal edildi</string>
+    <string name="status_error">Hata oluştu</string>
+    <string name="status_not_started">Başlatılamadı</string>
+    <string name="status_invalid_link">Geçersiz bağlantı</string>
+    <string name="status_bad_time">Zaman aralığı hatalı</string>
+    <string name="status_fetching">Bilgi alınıyor</string>
+    <string name="status_fetch_failed">Bilgi alınamadı</string>
+    <string name="status_permission">İzin gerekli</string>
+    <string name="action_remaining">Kalan süre %1$s</string>
+    <string name="action_cancel">İndirmeyi iptal et</string>
+    <string name="action_bg_note">Uygulamadan çıksanız da indirme sürer; ilerleme bildirimde görünür.</string>
+    <string name="action_start">İndirmeyi başlat</string>
+    <string name="files_saved">%1$d dosya → %2$s</string>
+
+    <string name="share_title">Hızlı indirme</string>
+    <string name="share_subtitle">Uygulamayı açmadan indirin</string>
+    <string name="share_no_link">Paylaşılan içerikte bir bağlantı bulunamadı.</string>
+    <string name="share_folder_unreachable">Seçili klasöre erişilemiyor. İndirilenler kullanılacak.</string>
+    <string name="share_line_video">Video · %1$s · %2$s</string>
+    <string name="share_line_audio">Ses · MP3 · %1$s</string>
+    <string name="share_line_folder">Kayıt: %1$s</string>
+    <string name="share_busy">Bir indirme sürüyor. Bu indirme kuyruğa eklenecek.</string>
+    <string name="share_queued">İndirme kuyruğa eklendi.</string>
+    <string name="share_btn_video">Video indir</string>
+    <string name="share_btn_audio">Ses indir (MP3)</string>
+    <string name="share_open_app">Uygulamada aç</string>
+    <string name="share_close">Kapat</string>
+    <string name="share_toast_video">Video indirmesi başladı. İlerleme bildirimde görünür.</string>
+    <string name="share_toast_audio">Ses indirmesi başladı. İlerleme bildirimde görünür.</string>
+    <string name="share_toast_failed">İndirme başlatılamadı: %1$s</string>
+    <string name="share_storage_denied">Depolama izni verilmedi; indirme başlatılamadı.</string>
+
+    <string name="err_no_output">İndirme bitti ama dosya oluşmadı.</string>
+    <string name="err_folder_open">Hedef klasör açılamadı. Klasörü yeniden seçin.</string>
+    <string name="err_folder_write">Hedef klasöre yazılamıyor. Klasörü yeniden seçin.</string>
+    <string name="err_mkdir">Klasör oluşturulamadı: %1$s</string>
+    <string name="err_create_file">Dosya oluşturulamadı: %1$s</string>
+    <string name="err_write_file">Dosya yazılamadı: %1$s</string>
+    <string name="err_invalid_request">Geçersiz indirme isteği.</string>
+    <string name="err_service_start">İndirme servisi başlatılamadı: %1$s</string>
+    <string name="err_time_order">[UYARI] Bitiş zamanı başlangıçtan büyük olmalı.</string>
+    <string name="err_time_invalid">[UYARI] %1$s zamanı geçersiz. Örnek: 00:30 veya 90</string>
+
+    <string name="vm_need_link">[UYARI] Lütfen http:// veya https:// ile başlayan bir bağlantı girin.</string>
+    <string name="vm_engine_wait">[UYARI] Motor henüz hazır değil, biraz bekleyin.</string>
+    <string name="vm_info_ready">[BİLGİ] Hazır: %1$s</string>
+    <string name="vm_info_failed">[HATA] Bilgi alınamadı: %1$s</string>
+    <string name="vm_inspecting">[BİLGİ] Bağlantı inceleniyor…</string>
+    <string name="vm_permission">[UYARI] Depolama izni verilmedi; indirme başlatılamadı.</string>
+    <string name="vm_ui_cleared">[BİLGİ] Arayüz temizlendi.</string>
+    <string name="vm_folder_set">[BİLGİ] Kayıt klasörü seçildi: %1$s</string>
+    <string name="vm_folder_default">[BİLGİ] Varsayılan klasör kullanılıyor.</string>
+    <string name="vm_folder_unwritable">[HATA] Seçilen klasöre yazılamıyor. Başka bir klasör seçin.</string>
+    <string name="vm_folder_missing">[UYARI] Kayıtlı klasöre artık erişilemiyor. İndirilenler kullanılacak.</string>
+    <string name="vm_perm_persist">[UYARI] Klasör izni kalıcı yapılamadı: %1$s</string>
+    <string name="vm_busy">[UYARI] Şu anda bir indirme sürüyor.</string>
+
+    <string name="log_engine_failed">[HATA] Motor başlatılamadı: %1$s</string>
+    <string name="log_ytdlp_check">[BİLGİ] yt-dlp güncellemesi denetleniyor…</string>
+    <string name="log_ytdlp_result">[BİLGİ] yt-dlp güncelleme sonucu: %1$s</string>
+    <string name="log_ytdlp_failed">[UYARI] yt-dlp güncellenemedi: %1$s</string>
+    <string name="log_engine_ready">[BİLGİ] İndirme motoru hazır.</string>
+    <string name="log_cancel_sent">[UYARI] İptal isteği gönderildi…</string>
+    <string name="log_cancel_failed">[UYARI] İptal edilemedi: %1$s</string>
+    <string name="log_download_start">[BİLGİ] İndirme başlıyor: %1$s</string>
+    <string name="log_codec">[BİLGİ] Video kodeği: %1$s</string>
+    <string name="log_range">[BİLGİ] Zaman aralığı: %1$s - %2$s</string>
+    <string name="log_saved">[BAŞARILI] %1$d dosya kaydedildi → %2$s</string>
+    <string name="log_cancelled">[UYARI] İşlem iptal edildi.</string>
+    <string name="log_failed">[HATA] İndirme başarısız: %1$s</string>
+    <string name="log_error_line">[HATA] %1$s</string>
+    <string name="log_wakelock_failed">[UYARI] Uyanık tutma kilidi alınamadı: %1$s</string>
+
+    <string name="notif_channel_progress">İndirme durumu</string>
+    <string name="notif_channel_progress_desc">Sürmekte olan indirmelerin ilerlemesi</string>
+    <string name="notif_channel_done">Tamamlanan indirmeler</string>
+    <string name="notif_channel_done_desc">İndirme bittiğinde veya hata verdiğinde bildirir</string>
+    <string name="notif_done_title">İndirme tamamlandı</string>
+    <string name="notif_failed_title">İndirme başarısız</string>
+    <string name="notif_cancel">İptal</string>
+    <string name="notif_starting">Başlatılıyor…</string>
+    <string name="notif_remaining">Kalan süre %1$s</string>
+    <string name="notif_queue_left">Kuyrukta %1$d indirme daha var</string>
+
+    <string name="queue_title">Kuyruk</string>
+    <string name="queue_subtitle">İndirmeler burada bekler ve sırayla çalışır.</string>
+    <string name="queue_clear">Kuyruğu temizle</string>
+    <string name="queue_remove">Kaldır</string>
+    <string name="queue_added">Kuyruğa eklendi (%1$d bekliyor)</string>
+    <string name="action_enqueue">Kuyruğa ekle</string>
+
+    <string name="status_parallel">%1$d indirme sürüyor</string>
+    <string name="notif_parallel">%1$d indirme sürüyor</string>
+    <string name="label_concurrency">AYNI ANDA İNDİRME</string>
+    <string name="concurrency_hint">Aynı anda çalışacak indirme sayısında sınır yok. Çok fazlası telefonu veya interneti yavaşlatabilir. Önerilen: 2–3.</string>
+
+    <string name="picker_title">Listeden öğe seçin</string>
+    <string name="picker_loading">Oynatma listesi okunuyor…</string>
+    <string name="picker_count">%2$d öğeden %1$d tanesi seçili</string>
+    <string name="picker_select_all">Tümünü seç</string>
+    <string name="picker_clear">Temizle</string>
+    <string name="picker_cancel">İptal</string>
+    <string name="picker_save">Kaydet ve indir (%1$d)</string>
+    <string name="picker_none">En az bir öğe seçin.</string>
+    <string name="picker_empty">Bu listede öğe bulunamadı.</string>
+    <string name="picker_fetch_failed">Liste okunamadı: %1$s</string>
+    <string name="picker_started">%1$d indirme kuyruğa eklendi.</string>
+</resources>

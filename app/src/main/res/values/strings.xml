@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pro Media Downloader</string>
+    <string name="tagline_ready">Fast media downloads</string>
+    <string name="tagline_preparing">Preparing the app…</string>
+
+    <string name="tab_download">Download</string>
+    <string name="tab_history">History</string>
+
+    <string name="clipboard_title">Copied link detected</string>
+    <string name="clipboard_dismiss">Dismiss</string>
+
+    <string name="link_title">Media link</string>
+    <string name="link_subtitle">All social media and popular video platforms are supported</string>
+    <string name="link_placeholder">Paste the link here</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_paste">Paste</string>
+    <string name="btn_fetch">Get info</string>
+    <string name="btn_fetching">Fetching…</string>
+    <string name="clear_desc">Clear link</string>
+
+    <string name="preview_title">Preview</string>
+    <string name="preview_empty">No media selected yet</string>
+    <string name="preview_loading">Fetching info…</string>
+    <string name="preview_duration">Duration %1$s</string>
+    <string name="preview_unknown_title">Unknown title</string>
+
+    <string name="options_title">Download settings</string>
+    <string name="options_subtitle">Format, quality and time range</string>
+    <string name="label_format">FORMAT</string>
+    <string name="label_quality">QUALITY</string>
+    <string name="label_codec">VIDEO CODEC</string>
+    <string name="label_time_range">TIME RANGE (OPTIONAL)</string>
+    <string name="format_video">Video · MP4</string>
+    <string name="format_audio">Audio · MP3</string>
+    <string name="quality_best">Best quality</string>
+    <string name="codec_h264">H.264 · Recommended</string>
+    <string name="codec_hevc">HEVC · H.265</string>
+    <string name="codec_vp9">VP9</string>
+    <string name="codec_av1">AV1</string>
+    <string name="hint_h264">H.264 plays on every phone, TV and computer.</string>
+    <string name="hint_h264_4k">For 4K most sites need VP9 or AV1. H.264 downloads up to 1080p.</string>
+    <string name="hint_hevc">HEVC is rare on websites. If it is not available, the closest compatible format is downloaded.</string>
+    <string name="hint_vp9">VP9 gives smaller files, but some older devices may not play it.</string>
+    <string name="hint_av1">AV1 gives the smallest files, but older phones may stutter or fail to play it.</string>
+    <string name="time_start">Start</string>
+    <string name="time_end">End</string>
+    <string name="switch_playlist">Download entire playlist</string>
+    <string name="switch_subtitles">Download subtitles</string>
+    <string name="switch_smart">Smart folders (Video / Audio)</string>
+
+    <string name="folder_title">Save location</string>
+    <string name="folder_subtitle">Where should files be saved?</string>
+    <string name="folder_custom">Your selected folder</string>
+    <string name="folder_default">Default location</string>
+    <string name="folder_choose">Choose folder</string>
+    <string name="folder_change">Change folder</string>
+    <string name="folder_reset">Default</string>
+    <string name="folder_selected">Selected folder</string>
+    <string name="default_folder_name">Downloads/ProMediaDownloader</string>
+
+    <string name="log_title">Activity log</string>
+    <string name="log_show">Show ▾</string>
+    <string name="log_hide">Hide ▴</string>
+    <string name="log_empty">No entries yet.</string>
+    <string name="log_clear_btn">Clear log</string>
+
+    <string name="history_title">Download history</string>
+    <string name="history_subtitle">Tap an item to play it.</string>
+    <string name="history_empty">No downloads yet.</string>
+    <string name="history_clear">Clear history</string>
+    <string name="type_video">Video</string>
+    <string name="type_audio">Audio</string>
+    <string name="history_missing">The file could not be opened. It may have been moved or deleted.</string>
+    <string name="history_no_player">No app found to open this file.</string>
+
+    <string name="language_title">Language</string>
+    <string name="language_subtitle">Choose the app language</string>
+    <string name="language_en">English</string>
+    <string name="language_tr">Türkçe</string>
+
+    <string name="about_title">About</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_developer">Developer:</string>
+    <string name="about_copyright">© 2026 Pro Media Downloader</string>
+    <string name="about_disclaimer">You are responsible for the content you download and for complying with copyright law. Only download media you have the right to use.</string>
+
+    <string name="status_ready">Ready</string>
+    <string name="status_preparing">Preparing engine…</string>
+    <string name="status_engine_error">Engine error</string>
+    <string name="status_starting">Starting</string>
+    <string name="status_downloading">Downloading</string>
+    <string name="status_saving">Saving</string>
+    <string name="status_processing">Processing</string>
+    <string name="status_done">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="status_error">Error</string>
+    <string name="status_not_started">Could not start</string>
+    <string name="status_invalid_link">Invalid link</string>
+    <string name="status_bad_time">Invalid time range</string>
+    <string name="status_fetching">Fetching info</string>
+    <string name="status_fetch_failed">Could not get info</string>
+    <string name="status_permission">Permission required</string>
+    <string name="action_remaining">Time left %1$s</string>
+    <string name="action_cancel">Cancel download</string>
+    <string name="action_bg_note">You can close the app. The download continues and its progress shows in the notification.</string>
+    <string name="action_start">Start download</string>
+    <string name="files_saved">%1$d file(s) → %2$s</string>
+
+    <string name="share_title">Quick download</string>
+    <string name="share_subtitle">Download without opening the app</string>
+    <string name="share_no_link">No link was found in the shared content.</string>
+    <string name="share_folder_unreachable">The selected folder cannot be reached. Downloads will be used.</string>
+    <string name="share_line_video">Video · %1$s · %2$s</string>
+    <string name="share_line_audio">Audio · MP3 · %1$s</string>
+    <string name="share_line_folder">Save to: %1$s</string>
+    <string name="share_busy">A download is running. This one will be added to the queue.</string>
+    <string name="share_queued">Added to the download queue.</string>
+    <string name="share_btn_video">Download video</string>
+    <string name="share_btn_audio">Download audio (MP3)</string>
+    <string name="share_open_app">Open in app</string>
+    <string name="share_close">Close</string>
+    <string name="share_toast_video">Video download started. Progress appears in the notification.</string>
+    <string name="share_toast_audio">Audio download started. Progress appears in the notification.</string>
+    <string name="share_toast_failed">Could not start the download: %1$s</string>
+    <string name="share_storage_denied">Storage permission was not granted. The download could not start.</string>
+
+    <string name="err_no_output">The download finished but no file was created.</string>
+    <string name="err_folder_open">The destination folder cannot be opened. Choose the folder again.</string>
+    <string name="err_folder_write">Cannot write to the destination folder. Choose the folder again.</string>
+    <string name="err_mkdir">Could not create folder: %1$s</string>
+    <string name="err_create_file">Could not create file: %1$s</string>
+    <string name="err_write_file">Could not write file: %1$s</string>
+    <string name="err_invalid_request">Invalid download request.</string>
+    <string name="err_service_start">Download service could not start: %1$s</string>
+    <string name="err_time_order">[WARNING] End time must be later than start time.</string>
+    <string name="err_time_invalid">[WARNING] %1$s time is invalid. Example: 00:30 or 90</string>
+
+    <string name="vm_need_link">[WARNING] Enter a link that starts with http:// or https://.</string>
+    <string name="vm_engine_wait">[WARNING] The engine is not ready yet. Please wait.</string>
+    <string name="vm_info_ready">[INFO] Ready: %1$s</string>
+    <string name="vm_info_failed">[ERROR] Could not get info: %1$s</string>
+    <string name="vm_inspecting">[INFO] Inspecting link…</string>
+    <string name="vm_permission">[WARNING] Storage permission was not granted. The download could not start.</string>
+    <string name="vm_ui_cleared">[INFO] Interface cleared.</string>
+    <string name="vm_folder_set">[INFO] Save folder set: %1$s</string>
+    <string name="vm_folder_default">[INFO] Using the default folder.</string>
+    <string name="vm_folder_unwritable">[ERROR] The selected folder is not writable. Choose another folder.</string>
+    <string name="vm_folder_missing">[WARNING] The saved folder is no longer accessible. Downloads will be used.</string>
+    <string name="vm_perm_persist">[WARNING] Could not keep access to the folder: %1$s</string>
+    <string name="vm_busy">[WARNING] A download is already running.</string>
+
+    <string name="log_engine_failed">[ERROR] Engine could not start: %1$s</string>
+    <string name="log_ytdlp_check">[INFO] Checking for yt-dlp updates…</string>
+    <string name="log_ytdlp_result">[INFO] yt-dlp update result: %1$s</string>
+    <string name="log_ytdlp_failed">[WARNING] yt-dlp could not be updated: %1$s</string>
+    <string name="log_engine_ready">[INFO] Download engine is ready.</string>
+    <string name="log_cancel_sent">[WARNING] Cancel requested…</string>
+    <string name="log_cancel_failed">[WARNING] Could not cancel: %1$s</string>
+    <string name="log_download_start">[INFO] Download started: %1$s</string>
+    <string name="log_codec">[INFO] Video codec: %1$s</string>
+    <string name="log_range">[INFO] Time range: %1$s - %2$s</string>
+    <string name="log_saved">[DONE] %1$d file(s) saved → %2$s</string>
+    <string name="log_cancelled">[WARNING] Operation cancelled.</string>
+    <string name="log_failed">[ERROR] Download failed: %1$s</string>
+    <string name="log_error_line">[ERROR] %1$s</string>
+    <string name="log_wakelock_failed">[WARNING] Could not acquire wake lock: %1$s</string>
+
+    <string name="notif_channel_progress">Download progress</string>
+    <string name="notif_channel_progress_desc">Progress of ongoing downloads</string>
+    <string name="notif_channel_done">Finished downloads</string>
+    <string name="notif_channel_done_desc">Notifies when a download finishes or fails</string>
+    <string name="notif_done_title">Download complete</string>
+    <string name="notif_failed_title">Download failed</string>
+    <string name="notif_cancel">Cancel</string>
+    <string name="notif_starting">Starting…</string>
+    <string name="notif_remaining">Time left %1$s</string>
+    <string name="notif_queue_left">%1$d more in queue</string>
+
+    <string name="queue_title">Queue</string>
+    <string name="queue_subtitle">Downloads wait here and run one after another.</string>
+    <string name="queue_clear">Clear queue</string>
+    <string name="queue_remove">Remove</string>
+    <string name="queue_added">Added to queue (%1$d waiting)</string>
+    <string name="action_enqueue">Add to queue</string>
+
+    <string name="status_parallel">%1$d downloads running</string>
+    <string name="notif_parallel">%1$d downloads running</string>
+    <string name="label_concurrency">PARALLEL DOWNLOADS</string>
+    <string name="concurrency_hint">No limit on downloads running at once. Too many may slow down your phone or internet. 2 to 3 is recommended.</string>
+
+    <string name="picker_title">Choose items from the playlist</string>
+    <string name="picker_loading">Reading the playlist…</string>
+    <string name="picker_count">%1$d of %2$d selected</string>
+    <string name="picker_select_all">Select all</string>
+    <string name="picker_clear">Clear</string>
+    <string name="picker_cancel">Cancel</string>
+    <string name="picker_save">Save and download (%1$d)</string>
+    <string name="picker_none">Select at least one item.</string>
+    <string name="picker_empty">No items were found in this playlist.</string>
+    <string name="picker_fetch_failed">Could not read the playlist: %1$s</string>
+    <string name="picker_started">%1$d download(s) added to the queue.</string>
+</resources>
