@@ -47,3 +47,11 @@ Bu proje **MIT Lisansı** altında açık kaynak olarak sunulmaktadır. Detaylar
 Bu uygulama yalnızca **eğitim amaçlı** ve kullanıcıların telif hakkı bulunmayan, açık lisanslı (Creative Commons vb.) veya kendi ürettikleri medyaları indirmeleri için geliştirilmiştir.
 
 Geliştirici, bu yazılımın üçüncü taraf platformların kullanım şartlarına aykırı olarak kullanılmasından veya telif hakkıyla korunan içeriklerin izinsiz indirilmesinden hiçbir şekilde sorumlu tutulamaz. Kullanıcılar, bulundukları ülkenin telif hakkı yasalarına ve ilgili platformların hizmet şartlarına uymakla yükümlüdür.
+
+## 💖 Projeyi Destekle (Support the Project)
+
+**Pro Media Downloader** tamamen ücretsiz ve açık kaynaklıdır. Yeni özellikler geliştirmeme destek olmak isterseniz kripto ile bağış yapabilirsiniz:
+
+* **USDT (TRC20):** `TPKmMmAK6CfM8cERDBSytnuauA3SRUYb4tA`
+
+Desteğiniz için teşekkürler! ☕🎶💻
